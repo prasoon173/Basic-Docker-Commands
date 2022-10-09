@@ -1,5 +1,5 @@
 # ***Basic-Docker-Commands***
-
+This is just a filtered history of docker commands run on a debian host. 
 ```
 
 sudo curl -sSL https://get.docker.com/ | sh
@@ -116,4 +116,10 @@ docker run --cpus=.5 ubuntu
 docker run --memory=100m ubuntu
 
 ```
+Checkout below two awesome links for a high-level cheat sheet of Docker. 
 
+https://dockerlabs.collabnix.com/docker/cheatsheet/ <br/>
+https://buddy.works/tutorials/docker-commands-cheat-sheet
+
+Best Regards, <br/>
+Happy Learing !
